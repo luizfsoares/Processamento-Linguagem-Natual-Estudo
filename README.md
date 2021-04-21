@@ -1,6 +1,6 @@
 # Processamento-Linguagem-Natual-Estudo
 
-app.py - Arquivo contendo o código da aplicação com rotas criadas através do Flask
+app.py - Arquivo contendo o código da aplicação com rotas criadas através do Flask <br>
 utils.py - Arquivo contendo o código de algumas funções utilizadas no app para importar o modelo criado (mymodel) e pré-processar os dados de entrada
 
 ## Objetivo
