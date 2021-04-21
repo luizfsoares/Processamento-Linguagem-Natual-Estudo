@@ -7,15 +7,15 @@
 ### Este projeto tem por objetivo a criação de uma aplicação de Análise de Sentimentos.
 ### Inicialmente foi feito todo o pipeline de processamento de linguagem natural com processo com:
 ### 
-#### - Aquisição
-#### - Importação
-#### - pré-processamento
-#### - Remoção de Stopwords
-#### - Etapa de Lemming/Stemming
-#### - Tokenização
-#### - Divisão dos dados em treino/teste
-#### - Criação de uma Rede Neural
-#### - Treinamento da Rede Neural
-#### - Exportação
+##### - Aquisição
+##### - Importação
+##### - pré-processamento
+##### - Remoção de Stopwords
+##### - Etapa de Lemming/Stemming
+##### - Tokenização
+##### - Divisão dos dados em treino/teste
+##### - Criação de uma Rede Neural
+##### - Treinamento da Rede Neural
+##### - Exportação
 
 ### Após isso, foi feito a criação do app utilizando Flask, importando o modelo, criando as rotas e renderizando um template HTML (também criado por mim) que receberá as informações do formulário e estas a partir de uma função de pré-processamento transformadas em dados no mesmo formato de entrada que a Rede Neural foi treinada
