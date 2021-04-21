@@ -1,7 +1,7 @@
 # Processamento-Linguagem-Natual-Estudo
 
-### app.py - Arquivo contendo o código da aplicação com rotas criadas através do Flask
-### utils.py - Arquivo contendo o código de algumas funções utilizadas no app para importar o modelo criado (mymodel) e pré-processar os dados de entrada
+app.py - Arquivo contendo o código da aplicação com rotas criadas através do Flask
+utils.py - Arquivo contendo o código de algumas funções utilizadas no app para importar o modelo criado (mymodel) e pré-processar os dados de entrada
 
 ## Objetivo
 Este projeto tem por objetivo a criação de uma aplicação de Análise de Sentimentos.
