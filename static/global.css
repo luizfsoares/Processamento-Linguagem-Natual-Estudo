@@ -1,0 +1,92 @@
+body{
+
+    background-color: #FFDEF4;
+}
+
+div{
+    text-align: center;
+}
+
+a{
+    font-family: 'Fredoka One', cursive;
+    color: #BA68C8;
+}
+
+
+.row{
+
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.form-center{
+    width: 100%;
+}
+
+.nav-item :hover{
+    border-bottom: 3px solid #BA68C8;
+}
+
+.ta-config{
+    height: 100px;
+    width: 100%;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 12px -2px rgba(0,0,0,0.8); 
+    box-shadow: 0px 0px 12px -2px rgba(0,0,0,0.8);
+}
+
+.submit-button{
+    text-align: center;
+    width: 100%;
+    padding: 0;
+}
+
+
+/*responsividade da imagem*/
+#container-da-imagem {
+    width: 300px;
+    position: relative;
+}
+#container-da-imagem img {
+    width: 100%;
+}
+img {
+    width: 87%;
+    height: 94%;
+}
+
+.card{
+    background-color: #FFDEF4;
+    border:none;
+}
+
+.btn{
+    width: 50%;
+    border-radius: 20px;
+    color: white;
+    background-color: #BA68C8;
+    font-family: 'Fredoka One', cursive;
+}
+
+.btn:hover{
+    color: white;
+    font-weight: 500;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 9px 5px rgba(0,0,0,0);
+}
+
+.card-title{
+    color: #BA68C8;
+    font-family: 'Fredoka One', cursive;
+    font-size:xx-large;
+}
+
+.card-text{
+    font-family: 'Fredoka One', cursive;
+    font-size:large;
+}
+
+
+
+
