@@ -22,4 +22,8 @@ Inicialmente foi feito todo o pipeline de processamento de linguagem natural com
  - Exportação
 
 ## 2)
-Após isso, foi feito a criação do app utilizando Flask, importando o modelo, criando as rotas e renderizando um template HTML (também criado por mim) que receberá as informações do formulário e estas a partir de uma função de pré-processamento transformadas em dados no mesmo formato de entrada que a Rede Neural foi treinada
+Após isso, foi feito a criação do app utilizando Flask, importando o modelo, criando as rotas e renderizando um template HTML (também criado por mim) que receberá as informações do formulário e estas a partir de uma função de pré-processamento transformadas em dados no mesmo formato de entrada que a Rede Neural foi treinada.
+
+<p align="center"> 
+<img src="./prints/telainicial.png" >
+</p>
